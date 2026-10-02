@@ -1,0 +1,9 @@
+# Python一次ファイル
+__pycache__/
+*.py[cod]
+
+# 重いデータ・DBファイル（GitHubには送信しない）
+*.pdf
+*.db
+chroma_db/
+.streamlit/
